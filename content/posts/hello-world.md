@@ -25,7 +25,7 @@ To be honest, I _do_ like it. It's smooth, clean, and functional. It does what i
 ##### Hugo
 Here's the catch, so if you just want a website that is what it needs to be (a blog) and nothing more, then what's the admin dashboard all about? If code doesn't scare you, then why even bother with abstractions (read: bloat, fluff, girth) that strip away your pure power and reduce it to GUI?
 
-If all you're running is a blog, why can't you just have a static site?
+If all you're running is a blog, why can't you just have a [static site](https://gohugo.io/)?
 
 Yeah.
 
