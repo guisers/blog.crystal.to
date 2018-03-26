@@ -1,5 +1,5 @@
 ---
-title: "Hello, World"
+title: "Hello, world"
 date: 2018-03-26T01:09:00-07:00
 author: "guisers"
 tags: ["personal"]
