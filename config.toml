@@ -1,0 +1,4 @@
+baseurl = "https://blog.crystal.to/"
+title = "guisers"
+languageCode = "en-us"
+theme = "paper"
