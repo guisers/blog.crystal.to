@@ -13,3 +13,6 @@
 [submodule "themes/cocoa"]
 	path = themes/cocoa
 	url = https://github.com/nishanths/cocoa-hugo-theme.git
+[submodule "themes/paper-v2"]
+	path = themes/paper-v2
+	url = https://github.com/guisers/hugo-paper

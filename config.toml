@@ -1,7 +1,7 @@
 baseurl = "https://blog.crystal.to/"
 title = "guisers"
 languageCode = "en-us"
-theme = "paper"
+theme = "paper-v2"
 
 [blackFriday]
 hrefTargetBlank=true
